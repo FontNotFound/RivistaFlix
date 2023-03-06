@@ -1,21 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Test di RivistaFlix
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/FontNotFound/RivistaFlix/tree/main/rivistaflix"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Repo del Progetto
         </a>
       </header>
     </div>
