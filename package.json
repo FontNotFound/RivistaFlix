@@ -1,0 +1,19 @@
+{
+  "name": "rivistaflix",
+  "version": "1.0.0",
+  "description": "Servizio di video On-Demand in Streaming per il Club delle Pagliette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FontNotFound/RivistaFlix.git"
+  },
+  "author": "CingaTuMadre, Riso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FontNotFound/RivistaFlix/issues"
+  },
+  "homepage": "https://github.com/FontNotFound/RivistaFlix#readme"
+}
